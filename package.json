@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/hesi016/testing123#readme",
   "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.1",
+    "typescript": "^5.8.2",
     "vite": "^6.2.5"
   },
   "dependencies": {
